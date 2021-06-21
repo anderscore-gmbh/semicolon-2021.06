@@ -1,1 +1,1 @@
-# semicolon-2021.06
+# Semicolon-Vortrag "Altanwendungen wieder testbar machen" (22.06.2021)
